@@ -6,14 +6,14 @@ https://vertcoincash.org
 What is Vertcoin Cash?
 ----------------------
 
-Vertcoin Cash is a fork of Bitcoin that is designed to resist the monopolisation of
-mining power.
+Vertcoin Cash is a fork of Bitcoin that is designed to embrace the all types of mining power.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
  - 50 coins per block (25 after block 840,000)
  - Difficulty retargeting every block to recover from large hashrate swings
- - Lyra2REv2 proof of work algorithm for ASIC resistance
+ - ASIC support and multi-algorithm
+ 
 
 For more information, as well as an immediately useable, binary version of
 the Vertcoin Cash client sofware, see http://www.vertcoincash.org.
@@ -26,10 +26,6 @@ information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/vertcoin/vertcoin/tags) are created
-regularly to indicate new official, stable release versions of Vertcoin Core.
 
 Developers work on their own forks and submit pull requests in order to merge
 changes with `master`. Due to the relatively small size of the development team,
