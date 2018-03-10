@@ -1,12 +1,12 @@
-Vertcoin Core integration/staging tree
-=====================================
+Vertcoin Cash Core integration/staging tree
+===========================================
 
-https://vertcoin.org
+https://vertcoincash.org
 
-What is Vertcoin?
-----------------
+What is Vertcoin Cash?
+----------------------
 
-Vertcoin is a fork of Bitcoin that is designed to resist the monopolisation of
+Vertcoin Cash is a fork of Bitcoin that is designed to resist the monopolisation of
 mining power.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
@@ -16,12 +16,12 @@ mining power.
  - Lyra2REv2 proof of work algorithm for ASIC resistance
 
 For more information, as well as an immediately useable, binary version of
-the Vertcoin client sofware, see http://www.vertcoin.org.
+the Vertcoin Cash client sofware, see http://www.vertcoincash.org.
 
 License
 -------
 
-Vertcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Vertcoin Cash Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -37,17 +37,13 @@ developers also commit directly to the repo often. Anyone is allowed to contribu
 though and useful pull requests will almost always be accepted given various
 obvious stipulations regarding stability etc. 
 
-The Vertcoin [discord](https://discord.gg/Yb6EHNy) or [subreddit](https://reddit.com/r/vertcoin)
-should be used to discuss complicated or controversial changes with the developers 
-before working on a patch set.
-
 Testing
 -------
 
-Vertcoin currently relies on Bitcoin Core for its testcases, and few of them are
+Vertcoin Cash currently relies on Bitcoin Core for its testcases, and few of them are
 known to work, though the software is based on fully test conforming upstream 
 Bitcoin Core versions. We would be grateful to those who can help port the existing
-Bitcoin Core test cases to Vertcoin such that they can be used to assure correctness.
+Bitcoin Core test cases to Vertcoin Cash such that they can be used to assure correctness.
 
 Translations
 ------------
